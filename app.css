@@ -1,0 +1,15 @@
+.dino {
+  position: absolute;
+  width: 60px;
+  height: 60px;
+  background: red;
+  bottom: 0px;
+}
+
+.obstacles {
+  position: absolute;
+  width: 60px;
+  height: 60px;
+  background: orange;
+  bottom: 0px;
+}
